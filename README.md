@@ -30,7 +30,7 @@ A web-based application designed specifically for small businesses, providing:
 
 Unlike traditional ERPs that are complicated and costly, our solution is built for shop owners, keeping it lightweight, affordable, and easy to use.
 
-🎯 Key Features
+### 🎯 Key Features:
 
 📦 Inventory tracking with stock updates
 
