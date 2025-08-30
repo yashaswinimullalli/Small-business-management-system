@@ -1,5 +1,5 @@
 # 🛍️ Smart Inventory & Sales Management System
-# 📌 Problem Statement
+## 📌 Problem Statement
 
 Small shop owners often struggle to manage their inventory, sales, and invoices efficiently.
 Traditional ERP tools are:
@@ -12,7 +12,7 @@ Traditional ERP tools are:
 
 This leaves shop owners without an easy solution to manage their daily operations.
 
-# 🚀 Our Solution
+## 🚀 Our Solution
 
 A web-based application designed specifically for small businesses, providing:
 
@@ -24,7 +24,7 @@ A web-based application designed specifically for small businesses, providing:
 
 ✅ Low-stock alerts to prevent shortages
 
-# 💡 Unique Selling Proposition (USP)
+## 💡 Unique Selling Proposition (USP)
 
 “ERP power made simple for small businesses — delivering inventory, sales, and invoicing efficiency in a simple, affordable, and user-friendly way.”
 
@@ -42,7 +42,7 @@ Unlike traditional ERPs that are complicated and costly, our solution is built f
 
 📊 Simple, clean dashboard for shop owners
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Frontend: HTML, CSS, (React/Bootstrap optional)
 
@@ -62,6 +62,6 @@ Other Tools: GitHub for version control
 
 🌍 Empowers small businesses with ERP-level features at a fraction of the cost
 
-# 👥 Team
+## 👥 Team
 Yashaswini
 Ankitha
