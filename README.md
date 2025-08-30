@@ -1,4 +1,4 @@
-# Enterprise Resource Planning power made simple for small businesses
+                                  # Enterprise Resource Planning power made simple for small businesses
 🛍️ Smart Inventory & Sales Management System
 📌 Problem Statement
 
