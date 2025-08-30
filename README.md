@@ -1,6 +1,6 @@
-                                  # Enterprise Resource Planning power made simple for small businesses
-🛍️ Smart Inventory & Sales Management System
-📌 Problem Statement
+   # 🛍️ Enterprise Resource Planning power made simple for small businesses
+
+ 📌# Problem Statement:
 
 Small shop owners often struggle to manage their inventory, sales, and invoices efficiently. Traditional ERP tools are too complex and expensive for small businesses, leaving them without an easy solution to:
 
