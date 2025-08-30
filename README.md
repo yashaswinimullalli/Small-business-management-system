@@ -1,6 +1,6 @@
    # 🛍️ Enterprise Resource Planning power made simple for small businesses
 
- 📌# Problem Statement:
+ # 📌Problem Statement:
 
 Small shop owners often struggle to manage their inventory, sales, and invoices efficiently. Traditional ERP tools are too complex and expensive for small businesses, leaving them without an easy solution to:
 
@@ -12,7 +12,7 @@ Monitor sales performance
 
 Get timely alerts for low stock
 
-🚀 Our Solution
+# 🚀 Our Solution
 
 We built a web-based application that makes Enterprise Resource Planning (ERP) power simple and affordable for small businesses.
 With this system, shop owners can:
@@ -25,7 +25,7 @@ With this system, shop owners can:
 
 ✅ Get Alerts – Receive notifications when stock is running low
 
-🎯 Key Features
+# 🎯 Key Features
 
 Simple and user-friendly dashboard for shop owners
 
@@ -37,7 +37,7 @@ Scalable for small to medium businesses
 
 Cost-effective alternative to complex ERP systems
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Frontend: HTML, CSS, (optionally React/Bootstrap)
 
@@ -47,7 +47,7 @@ Database: MySQL / MongoDB
 
 Other Tools: GitHub for version control
 
-📈 Impact
+# 📈 Impact
 
 Saves time & effort in daily operations
 
